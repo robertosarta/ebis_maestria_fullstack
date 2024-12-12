@@ -2,7 +2,5 @@ Juan
 Cesar
 Karen
 Guillermo 
-Joselito
-Ramoncin
-Mergeado
-prueba git commit -a -m ""
+Laura
+Sergio
